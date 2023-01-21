@@ -201,3 +201,7 @@ If I had more time to work on this project, I would add:
  - Buoyancy Jacket inflate: https://www.youtube.com/watch?v=5Y_FVK6Es0s
  - Ambient underwater breathing: https://www.youtube.com/watch?v=r141Lr8SWAs
  - Jellyfish: https://www.cgtrader.com/3d-models/animals/fish/stylized-glowing-jellyfish
+ 
+ ### Packages
+ - ImGui for gui
+ - irrklang for sound
